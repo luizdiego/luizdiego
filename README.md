@@ -6,7 +6,10 @@
 - 🔭 I’m currently working on an Automated Test refactor using Oriented Programming Languages and Continuous-Integration pipelines
 - 🌱 I’m currently learning Ansible, Google Cloud and AWS
 - 👯 I’m looking to collaborate on any refactoring and share experiences
-- 📫 How to reach me: Just like the ancient Indians.. via smoke signal ☁️☁️☁️☁️
+- 📫 How to reach me:  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souza.luizdiego@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souza-luizdiego/" alt="LinkedIn"/></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still trying to figure out how to light a fireplace in under an hour
 
