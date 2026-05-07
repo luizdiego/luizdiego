@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still trying to figure out how to light a fireplace in under an hour
 
-
+<!--Commented out since Github service is not available
 <div style="display: flex; align-items: flex-start;">
   <picture style="height: 120%;">
     <source
@@ -30,19 +30,20 @@
     <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=luizdiego&theme=dracula&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
+-->
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/protractor/protractor-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg" alt="Protractor">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure">
+  <img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
 </div>
